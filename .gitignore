@@ -1,0 +1,24 @@
+.vs/
+.vscode/
+bin/
+obj/
+TestResults/
+packages/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+*.log
+
+publish/
+
+Thumbs.db
+.DS_Store
+
+# Local secrets
+secrets.json
+
+# Development settings containing secrets
+appsettings.Development.json
